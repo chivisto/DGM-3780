@@ -9,7 +9,7 @@
           <th>sets</th>
           <th>reps</th>
           <th>weight</th>
-          <th>dat</th>
+          <th>date</th>
         </tr>
       </thead>
       <tbody>
