@@ -27,7 +27,7 @@
       <label>Weight in Pounds: </label>
       <input v-model="routine.weight" type="number" />
 
-      <label>Dat: </label>
+      <label>Date: </label>
       <input v-model="routine.date" type="date" />
       <br><br><br>
 
